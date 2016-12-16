@@ -1,0 +1,45 @@
+//- Copyright 2015-2016, Google, Inc.
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+
+extends ../base.jade
+
+block content
+  .media
+    .media-body
+      h3 Tracks
+    .media-left
+      a(href="/tracks/add", class='btn btn-success btn-sm')
+        i.glyphicon.glyphicon-plus
+        span  Add track
+
+  each book in books
+    .media
+      .media-body
+        a(href="/tracks/#{book.id}")
+          p
+            b
+              =book.author
+            |,&nbsp;
+            =book.title
+      .media-left
+        audio(controls='')
+          source(src=book.imageUrl || 'http://media.w3.org/2010/07/bunny/04-Death_Becomes_Fur.mp4')
+
+  if !books.length
+    p No tracks found.
+
+  if nextPageToken
+    nav
+      ul.pager
+        li
+          a(href="?pageToken=#{encodeURIComponent(nextPageToken)}") More

@@ -1,0 +1,10 @@
+{
+  "GCLOUD_PROJECT": "transaudio-007",
+  "DATA_BACKEND": "datastore",
+  "CLOUD_BUCKET": "transaudio-007",
+  "OAUTH2_CLIENT_ID": "590853735235-asf35vorjj9n0n64n2aciipapbbpmo5d.apps.googleusercontent.com",
+  "OAUTH2_CLIENT_SECRET": "HHB8YYSdF0EFPQdedWkbakGW",
+  "OAUTH2_CALLBACK": "https://transaudio-007.appspot.com/auth/google/callback",
+  "MEMCACHE_URL": "localhost:11211"
+
+}

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "transaudio-007",
+  "private_key_id": "6f2b1b63e9912c27f10e9295bd5987d1141ca081",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDi1Rbpdy5mQN1O\nUijm7jOpUHmigCQFP3Cz5/+zFmsRlW8RSAGDpFUIP6neRLEp/bMQo1eIzM8PtEZC\nPTxczwJuNrvBU1hvGHdFRhe0u+MgCZqLYYxz+HJE0QuuE85n7M8jzsjIl9wXsX6W\n2P9Q05fgG+b4Z8QbEhu/ZO+GQLB6mUHREzcpQUdxkFk7TGF9hpJEjbpsV3992hmk\nZgqLAqeOt4up+XzHAtV65sQON43r450qLzIaWqwMUzOD4NTWliE4MS+96Qk1fNOO\n1fZH/as8lqvn96YUS+SxWKdKTqlIoSdin4fqD32gp2419F8X//f/6iCNhKsoetzM\nRWaPZ+I1AgMBAAECggEABmVr1/l8XXXGx8aZUKm22zdhtqtWWK+JRglstGgVbNGB\n6ELXiBbCLxFcgN/+/uggfH+eoETmMdMriAKiCRvtPZ5dfP4UqE1QT6vCT15c8TJU\nIUoG495FmpsqcSYt09BhpujV0JI3qpNetnI4ANd2mOMwiCCk7v57udHmzypTz6El\nGfGsCeUdoe44oTL5ycg4+it/Xpv/67cd8JjReW1HTtI6aon6razPRJj9dJZ65liU\nsY/BZAvPCzAkwh3YlOmA9cLdN64cYup9ELYQeA8cEjpupev6yx5rL4OMMqVfu9EN\n28GBnJkPjGzvDtemJZ5pxj6moqMO8EI0fpf6qVK1AQKBgQD2qBJ5hr60W3JlLVRE\n/v8f8y/Ecj9o1kkEsvhQtpQ8JZ5mS9r8j1Oa+yMIQ4FxJ5Zi2HjG8USnqr+E9mPK\nKLFkDDuCqUVJ92sB+b0xCfyeWZaYoWeRE8LSWMDsLvQLiTfeVRyVYyaWebJ6pOoj\nsh65hQujKumPzQhYts3gmyc1TQKBgQDrbMZIxuvr4GNqtwc2brxCVS4YCkAwLudL\nSSaDNzxymaW4GeiVUlpRk61I3zj0M8AP6OxQCVXdu3Soss6tNM7ehTI3QZ2kgLgO\nF28MbbdV2CAXqNSxYv/i+pGs8z15AudkF5LTwmI7ubrXVnuwI9zlLTwDTVCjNZv4\nVjuBVz/MiQKBgQDRXOAxnxoIZQa4sr0ww3EyYW1ORdtk1V6tSmxTtmYkl5nYItMC\nRXYlur2FqicZMQ0JYc1CsFAiMWDXL3yMf/Xygh+RTLSvj/+Yca8RDPUMQ+b8LySF\nlExt10AKOeCUWii942ibtMlwOGQyjgDfw7Uoq7GxEh+mG9bV1nTyDUA+kQKBgB3L\nSFTRh+30GeDZhPoojX6/lPPJ6FGwvejTOyKEDQxb0ZM5BCxRnciRLe75ARY2rmnV\nCoMei1ViceMfrfRRqJSUusQvc6nr+F8gLBegkwE0NuuHnFNOuh+ZonIG3pLAAVSz\nfwt5oED6wmCaO1ERWNVQIjYwxLHDCRgmoaU+y34xAoGBANbCCkI3asX7cmuSBc/i\nwQac+eTXKERzlcwroGlsrqUZPd6gtvz6VnJ9AdZu/4MYYZag4WP5q46ApS0WQXuQ\nsXFLM3G21WZDpIcwMTKy68xJsYQt2wEYcp24NJl/dXmLDwyA5rJMWhowdwjEPeZu\ngJjoc8jbvyvx1YNMWOv8nO08\n-----END PRIVATE KEY-----\n",
+  "client_email": "transaudio-007@appspot.gserviceaccount.com",
+  "client_id": "117940404247801951754",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/transaudio-007%40appspot.gserviceaccount.com"
+}
